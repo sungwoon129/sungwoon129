@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=FDC9C9&height=120&section=header&text=SungWoonYoon&fontSize=50)
 
 <h1>Skills</h1>
