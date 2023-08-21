@@ -22,6 +22,7 @@
 <p float="left">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/travisci-3EAAAF?style=flat-square&logo=TravisCI&logoColor=white"/>
 </p>
 
 
