@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=Slice&color=FDC9C9&height=120&section=header&text=SungWoonYoon&fontSize=50)
+ ![header](https://capsule-render.vercel.app/api?type=Slice&color=FDC9C9&height=120&section=header&text=SungWoonYoon&fontSize=50)
 
 <h1>Skills</h1>
 
@@ -12,7 +11,6 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 
 </p>  
-
 <h2>DBMS</h2>
 <p float="left">
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
