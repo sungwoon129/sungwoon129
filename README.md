@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/travisci-3EAAAF?style=flat-square&logo=TravisCI&logoColor=white"/>
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourceTree&logoColor=white"/>
+ <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+ <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 </p>
 
 
