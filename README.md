@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourceTree&logoColor=white"/>
  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
- <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+ <img src="https://img.shields.io/badge/AMAZON-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 </p>
 
 
