@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fastapi-009688?style=flat-square&logo=Fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-#3178C6?style=flat-square&logo=typescript-&logoColor=white"/>
+
 
 </p>  
 <h2>DBMS</h2>
