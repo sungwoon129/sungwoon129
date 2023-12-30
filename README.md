@@ -11,7 +11,7 @@
 
 <h2>FRAMEWORK / LIBRARY</h2>
 <p float="left">
- <img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat-square&logo=springBoot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/springBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fastapi-009688?style=flat-square&logo=Fastapi&logoColor=white"/>
