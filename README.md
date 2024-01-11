@@ -32,12 +32,17 @@
 <img src="https://img.shields.io/badge/jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
 </p>
 
-<h2>ETC</h2>
+<h2>VCS</h2>
 <p float="left">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/travisci-3EAAAF?style=flat-square&logo=TravisCI&logoColor=white"/>
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat-square&logo=sourceTree&logoColor=white"/>
+</p>
+
+<h2>TOOL</h2>
+<p float="left">
+
+<img src="https://img.shields.io/badge/travisci-3EAAAF?style=flat-square&logo=TravisCI&logoColor=white"/>
  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
  <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
  <img src="https://img.shields.io/badge/AMAZON EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
@@ -45,4 +50,6 @@
  <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
  <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 </p>
+
+
 
