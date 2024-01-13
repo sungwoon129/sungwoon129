@@ -26,6 +26,11 @@
 <img src="https://img.shields.io/badge/reids-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
+<h2>Cloud</h2>
+<p float="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
 <h2>Testing</h2>
 <p float="left">
  <img src="https://img.shields.io/badge/junit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
@@ -49,6 +54,12 @@
  <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
  <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
  <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+   
+</p>
+
+<h2>ETC</h2>
+<p float="left">
+  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
 </p>
 
 
